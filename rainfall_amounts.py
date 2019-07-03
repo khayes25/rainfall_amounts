@@ -1,11 +1,5 @@
 """
-See instructions in CSCI111_A6.pdf
-
-Be sure to rename this file Lastname_A6.py, using your last name
-in place of "Lastname".
-
-Your name: Keon Hayes
-
+@author: Keon Hayes
 """
 
 months = 12 								    #A months variable is created to represent the number of months.
